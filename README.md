@@ -7,3 +7,11 @@ I Personally worked on UI, menus, audio, highscores, backgrounds, testing, docum
 
 Written in Swift using XCode.
 Platform: iPad
+
+Team Members:
+
+Zac Bell
+Ray Young
+Ryan Cairney
+karin Khera
+Jon Bergen
