@@ -6,12 +6,13 @@ This game was presented to industry proffesionals after completion.
 I Personally worked on UI, menus, audio, highscores, backgrounds, testing, documentation, and various gameplay mechanics and balancing.
 
 Written in Swift using XCode.
+
 Platform: iPad
 
-Team Members:
+##### Team Members:
 
-Zac Bell
-Ray Young
-Ryan Cairney
-karin Khera
-Jon Bergen
+* Zac Bell
+* Ray Young
+* Ryan Cairney
+* Karin Khera
+* Jon Bergen
